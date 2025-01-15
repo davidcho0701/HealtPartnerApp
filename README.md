@@ -1,7 +1,7 @@
 # HealtPartnerApp
 객체지향언어2(Java) 프로젝트
 
-<클래스> /n
+<클래스>
 1.ExerciseDataManager
 기능: 운동 기록 데이터를 파일에 저장하고 불러오는 관리자 클래스
 핵심 메서드:
